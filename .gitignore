@@ -1,0 +1,9 @@
+# Ignore data folder (Large CSV files)
+data/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+__pycache__/
