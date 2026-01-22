@@ -51,5 +51,5 @@ Early detection allows policymakers to **shift from reactive to proactive govern
 - VS Code
 
 ## Author
-Ritesh  
+Retesh  
 UIDAI Data Hackathon 2026
